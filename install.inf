@@ -1,0 +1,12 @@
+[info]
+title=Formatter for ColdFusion
+desc=
+type=cudatext-plugin
+subdir=cuda_fmt_coldfusion
+homepage=https://github.com/CudaText-addons/cuda_fmt_coldfusion
+
+[fmt1]
+caption=ColdFusion Beautify
+method=do_format
+lexers=ColdFusion
+config=cuda_fmt_coldfusion.json
